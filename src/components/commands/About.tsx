@@ -15,6 +15,7 @@ export default function About() {
 		<div>
 			<h1 className="text-2xl text-yellow-200 animate-reveal-0.5">Why?</h1>
 			<p className="text-lg mb-3 animate-reveal-0.5">
+				I am a software Engineer; Python Developer 
 				Terminal's Portfolio is a portfolio style that design to let you go
 				through the portfolio in the terminal way.
 			</p>
