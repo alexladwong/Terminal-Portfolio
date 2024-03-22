@@ -14,19 +14,19 @@ function renderCmd(cmd: string): CmdHistory {
 				Component: Help,
 				time: "",
 			};
-		case "bio":
+		case "bios":
 			return {
 				cmd,
 				Component: Bio,
 				time: "",
 			};
-		case "skill":
+		case "skills":
 			return {
 				cmd,
 				Component: Skills,
 				time: "",
 			};
-		case "contact":
+		case "contacts":
 			return {
 				cmd,
 				Component: Contact,

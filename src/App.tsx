@@ -10,7 +10,7 @@ export default function App() {
           <div className="block sm:hidden mb-10 bg-yellow-200 py-3 text-center text-xl text-gray-700">
             <p>For better experience please try this with pc!</p>
             <p>This is not design for mobile view.</p>
-            <a href="https://chensokheng.me" className="block p-2 underline">
+            <a href="https://ladwongdevelopers.com  " className="block p-2 underline">
               Visit this instead
             </a>
           </div>

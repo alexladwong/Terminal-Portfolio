@@ -35,7 +35,7 @@ export default function Bio() {
 						<h1 className="text-2xl">KintuAlexLadwong</h1>
 						<GoVerified className="text-blue-500 text-2xl" />
 					</div>
-					<p className="text-lg text-gray-400">Joined the world of Coding 3 years ago.</p>
+					<p className="text-lg text-gray-400">Joined the world of Coding 2 years ago.</p>
 				</div>
 			</div>
 			<p>

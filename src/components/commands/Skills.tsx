@@ -20,8 +20,8 @@ export default function Skills() {
 		},
 		{
 			Icon: SiReact,
-			barWidth: "w-65%",
-			percentageValue: "65%",
+			barWidth: "w-50%",
+			percentageValue: "50%",
 			text: "React",
 		},
 		{
@@ -32,14 +32,14 @@ export default function Skills() {
 		},
 		{
 			Icon: SiJavascript,
-			barWidth: "w-60%",
-			percentageValue: "60%",
-			text: "Express.js",
+			barWidth: "w-55%",
+			percentageValue: "55%",
+			text: "Javascript.js",
 		},
 		{
 			Icon: SiFigma,
-			barWidth: "w-65%",
-			percentageValue: "65%",
+			barWidth: "w-60%",
+			percentageValue: "60%",
 			text: "Figma",
 		},
 	];
