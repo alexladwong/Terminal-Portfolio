@@ -1,12 +1,9 @@
 import ProgressBar from "../ProgressBar";
 import {
-	SiExpress,
 	SiFlutter,
 	SiJavascript,
-	SiNextdotjs,
 	SiPython,
 	SiReact,
-	SiTailwindcss,
 	SiFigma,
 } from "react-icons/si";
 
